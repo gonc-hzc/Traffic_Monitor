@@ -1,6 +1,6 @@
 # 流量监控
 
-React 前端 + C++ 后端的本机实时流量监控仪表盘。
+这是一个纯vibecoding的项目，使用codex仿照clash-verge和ALDENTE的面板风格制作的一个本机实时流量监控仪表盘。
 
 ## 功能
 
